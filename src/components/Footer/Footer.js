@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://github.com/aspolchi2/cleanfolio'
       className='link footer__link'
     >
-    Thanks
+    Thank you!
     </a>
   </footer>
 )
